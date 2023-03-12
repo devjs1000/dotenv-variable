@@ -1,4 +1,4 @@
-# node-libs
+# dotenv-variable
 
 1. add a `.env` file.
 2. add below format of code.
