@@ -1,9 +1,8 @@
 {
-  "name": "node-libs",
+  "name": "dot-env-plus",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "ava": {
     "environmentVariables": {
       "port": "8000"
@@ -16,7 +15,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.2",
     "yaml": "^2.1.1"
   }
 }
