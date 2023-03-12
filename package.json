@@ -1,18 +1,22 @@
 {
-  "name": "dot-env-plus",
+  "name": "dot-env-yaml",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "ava": {
-    "environmentVariables": {
-      "port": "8000"
-    }
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "dotenv",
+    "yaml",
+    "env",
+    "environment",
+    "variables",
+    "config",
+    "configuration",
+    "configure"
+  ],
+  "author": "devjs1000",
   "license": "ISC",
   "dependencies": {
     "yaml": "^2.1.1"
